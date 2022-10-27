@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(420,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(593,57): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(621,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(670,58): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(764,53): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(789,53): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(926,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\work\ComF\GAME_SFML\GAME_SFML\main.cpp(926,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GAME_SFML.vcxproj -> D:\work\ComF\GAME_SFML\x64\Debug\GAME_SFML.exe
